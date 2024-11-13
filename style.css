@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('./background\ pic.webp');
+    background-size: 100%;
+}
+
+h1 {
+    color: #333;
+}
+
+canvas {
+    border: 1px solid #000;
+    background-color: #ffffff;
+    margin: 20px auto;
+    display: block;
+}
